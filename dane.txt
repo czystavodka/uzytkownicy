@@ -1,0 +1,3 @@
+licencja: MOJAKLIENTLICENCJA
+nick: MOJNICK
+haslo: MOJEHASLO
